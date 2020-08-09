@@ -1,3 +1,4 @@
-# Protein Recommender System
+# Drugs Recommender System
 
-Considered drugs and targets associations (DrugBank database: https://www.drugbank.ca/) and considered the human PPI network (Intact database: https://www.ebi.ac.uk/intact/search), a recommender system is built which, according to how proteins are connected on the PPI network, given a drug suggests new targets
+Considerata la rete PPI dell'uomo (database Intact ​ https://www.ebi.ac.uk/intact/search​) e considerate le associazioni tra drugs e targets (proteine) (database ​ https://www.drugbank.ca/), viene costruito un sistema di raccomandazione che, in funzione di come sono collegate le proteine sulla rete PPI, data una drug suggerisce nuovi target.
+
